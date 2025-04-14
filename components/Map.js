@@ -1,0 +1,1 @@
+// Beispielhafter Map.js-Inhalt

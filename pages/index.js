@@ -1,0 +1,1 @@
+// Beispielhafter index.js-Inhalt
